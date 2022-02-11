@@ -1,2 +1,5 @@
-# escoteirando-encontro-vue
-Form de edição de encontros
+# escoteirando-encontro
+
+Plataforma de edição e compartilhamento de encontros para atividades escoteiras.
+
+
